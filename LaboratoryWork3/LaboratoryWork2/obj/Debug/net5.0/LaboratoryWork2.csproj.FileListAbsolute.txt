@@ -1,0 +1,32 @@
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.csproj.AssemblyReference.cache
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.AssemblyInfoInputs.cache
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.AssemblyInfo.cs
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.csproj.CoreCompileInputs.cache
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.exe
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.deps.json
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.runtimeconfig.json
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.runtimeconfig.dev.json
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.dll
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\bin\Debug\net5.0\ref\LaboratoryWork2.dll
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.pdb
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.dll
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\obj\Debug\net5.0\ref\LaboratoryWork2.dll
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.pdb
+C:\Users\2.1-ПК.003\Desktop\Programs\Лабы по ООП(ЯП, 2 курс, 1 сем)\LaboratoryWork2\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.genruntimeconfig.cache
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.exe
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.deps.json
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.runtimeconfig.json
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.runtimeconfig.dev.json
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.dll
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\bin\Debug\net5.0\ref\LaboratoryWork2.dll
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.pdb
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.csproj.AssemblyReference.cache
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.AssemblyInfoInputs.cache
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.AssemblyInfo.cs
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.csproj.CoreCompileInputs.cache
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.dll
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\obj\Debug\net5.0\ref\LaboratoryWork2.dll
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.pdb
+C:\Users\2.1-ПК.003\Desktop\Programs\Программы VS(корень)\LaboratoryWork3\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.genruntimeconfig.cache
